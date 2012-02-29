@@ -1,6 +1,6 @@
 #! /bin/sh
 ##
-# Setup script for Ondemand
+# Setup script for JAGGRAB
 #
 # Author: Fabian M. <mail.fabianm@gmail.com>
 ##

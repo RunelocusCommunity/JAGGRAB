@@ -1,6 +1,6 @@
 #! /bin/sh
 ##
-# Compile script for Ondemand
+# Compile script for JAGGRAB
 #
 # Author: Fabian M. <mail.fabianm@gmail.com>
 ##
